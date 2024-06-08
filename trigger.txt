@@ -1,2 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
 vulhub/php:5.4.1-cgi registry.cn-hangzhou.aliyuncs.com/docker-mtcz91/php:5.4.1-cgi
